@@ -35,11 +35,6 @@ void Client::run()
 		std::this_thread::sleep_for(std::chrono::seconds(1));
 	}
 }
-	
-void Client::startUpClient()
-{
-
-}
 
 
 } // namespace foldersync

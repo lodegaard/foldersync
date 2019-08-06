@@ -24,8 +24,6 @@ private:
 	FileHandler m_fileHandler;
 	FileWatcher m_fileWatcher;
 
-	void startUpClient();
-
 };
 
 
